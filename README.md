@@ -1,4 +1,4 @@
-👋 Hi, I’m Connor.
+👋 Hi, I’m Connor. @hiconnor
 
 <!---
 hiconnor/hiconnor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
